@@ -1,2 +1,20 @@
 5:46 PM 11/12/2016  Hello! I just used Git and it was pretty cool... :)
 alksdjfalks
+Why is this happending?  Editing from an old incomplete set of files
+
+C:\_LocalRepos\GitPractice>dir
+ Volume in drive C has no label.
+ Volume Serial Number is 2ABF-1192
+
+ Directory of C:\_LocalRepos\GitPractice
+
+12/09/2016  02:06 PM    <DIR>          .
+12/09/2016  02:06 PM    <DIR>          ..
+11/12/2016  06:02 PM               201 .gitignore
+11/12/2016  08:01 PM                86 cat.txt
+12/09/2016  10:22 AM               193 MrTak.txt
+11/12/2016  06:02 PM                56 README.md
+               4 File(s)            536 bytes
+               2 Dir(s)  22,758,203,392 bytes free
+
+Only has these files.
