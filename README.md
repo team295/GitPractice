@@ -3,6 +3,8 @@ This is for practicing with Git
 
 ## Cloning the Repository
 * `git clone https://github.com/team295/GitPractice.git`
+* Since you likely clone the repository to make changes, create a working branch
+* Please do not work (i.e. modify files) on the master branch
 
 ## Creating a new branch workflow
 ###Retrieve all changes from github.com
